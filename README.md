@@ -1,6 +1,6 @@
 # green-cloud-simulator
 
-https://github.com/ChaselynGaudi/green-cloud-simulator/blob/main/gc.png
+<img src="https://github.com/ChaselynGaudi/green-cloud-simulator/blob/main/gc.png"/>
 
 ___
 
